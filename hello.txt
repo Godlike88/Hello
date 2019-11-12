@@ -1,4 +1,8 @@
 New year
 Good
+<<<<<<< HEAD
 Hello, git!
 Hello, cat!
+=======
+Hello, git2!
+>>>>>>> master
