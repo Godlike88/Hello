@@ -1,2 +1,7 @@
 Good
+<<<<<<< HEAD
 Hello, git!
+=======
+Hello, git!!
+Hello, git cherry-pick!
+>>>>>>> ca67c22... Adding new line git rebase feature
